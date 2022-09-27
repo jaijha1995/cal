@@ -6,7 +6,7 @@ sound_of_click = 'sounds/click.wav'
 window  = tkinter.Tk()
 window.title("CASS calculator")
 
-x = 390
+x = 250
 y = 280
 
 numbers = {".":tkinter.PhotoImage(file = r"images/dot.gif"),
